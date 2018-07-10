@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+*{
+    box-sizing: border-box;
+}
+.main{
+    margin: 20px;
+    padding: 20px;
+    background: rgb(56, 53, 53);
+    text-align: center;
+}
+.main h1{
+    padding: 8px;
+    font-family: 'Aclonica', sans-serif;
+    font-size: 35px; 
+    color: darkorange;
+}
